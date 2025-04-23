@@ -4,8 +4,24 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Devloper
 ------------
 
-I’m a passionate Front-End Web Developer with over two years of experience in building websites. I’ve created more than 80 projects, ranging from landing pages to complex e-commerce sites. My expertise includes React, Next.js, and Tailwind CSS, focusing on responsive designs and performance optimization. I aim to deliver innovative solutions, communicate clearly, and exceed expectations. If you have a project idea and need a reliable partner to bring it to life, feel free to reach out. I'm available to help anytime!
+Hi 👋 
+I’m Mohamed, a Full Stack Web Developer with strong experience in building scalable and maintainable web applications using the MERN stack (MongoDB, Express.js, React, and Node.js).
 
+With over two years of hands-on experience, I have worked on 20+ real-world projects ranging from simple landing pages to complex e-commerce platforms and social media applications. My background includes both front-end and back-end development, with a strong focus on clean architecture, performance, and user experience.
+
+Front-End Development
+I specialize in building dynamic and responsive user interfaces using React and Next.js. I follow best practices in component-based architecture, state management using Redux and TanStack Query, and form validation with Formik and Yup. I also pay close attention to accessibility, SEO optimization, and performance using techniques like Server-Side Rendering (SSR) and Static Site Generation (SSG). For styling, I use Tailwind CSS to create modern, consistent, and responsive UI designs.
+
+Back-End Development
+On the server side, I work with Node.js, Express, and NestJS to build RESTful and GraphQL APIs. I implement secure authentication and authorization using JWT and session-based systems. My experience includes integrating third-party services like Stripe for payment processing, Cloudinary for media storage, and Nodemailer for email handling. I handle real-time communication with WebSockets and Socket.io, and I follow modular, layered architecture for scalability and maintainability.
+
+Databases & Deployment
+I’m proficient in working with both NoSQL (MongoDB) and relational databases (MySQL), using Mongoose or TypeORM for schema design and data access. For deployment, I use Docker for containerization, Vercel and Netlify for front-end hosting, and cloud tools like MongoDB Atlas for production-ready environments.
+
+Tools & Workflow
+I use Git and GitHub for version control, Postman and Insomnia for API testing, and Chrome DevTools for debugging and performance analysis. I follow Agile methodologies, focus on continuous learning, and always aim to deliver clean, efficient, and tested code.
+
+I’m passionate about building high-quality products, solving meaningful problems, and continuously improving as a developer. I enjoy collaborating in team environments, learning from others, and contributing to impactful projects.
 * 🌍  I'm based in Egypt
 * 🖥️  See my portfolio at [MyPortoFolio](http://soon.soon)
 * ✉️  You can contact me at [mhamedfekry0@gmail.com](mailto:mhamedfekry0@gmail.com)
