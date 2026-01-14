@@ -4,7 +4,6 @@
   I'm <b>Mohamed Fekry</b> — Full-Stack Software Developer from 🇪🇬 Egypt
 </p>
 
----
 
 <h2 align="center">👨‍💻 About Me</h2>
 
@@ -16,7 +15,6 @@
   ⚡ Always available — feel free to reach out
 </p>
 
----
 
 <h2 align="center">🛠️ I Code With</h2>
 
@@ -42,12 +40,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40"/>
 </div>
 
----
+
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=imohamedfekry" />
 </div>
 
----
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
